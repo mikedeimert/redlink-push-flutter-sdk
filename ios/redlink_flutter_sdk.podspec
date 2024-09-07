@@ -15,7 +15,7 @@ A new flutter plugin project.
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
-  s.dependency 'Redlink', '1.1.13'
+  s.dependency 'Redlink', '1.1.14'
   
   s.platform = :ios, '12.0'
 
